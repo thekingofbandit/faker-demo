@@ -3,7 +3,17 @@
 ### Difficulty level: Green (Easy)
 ### Total Time to Complete:  15 minutes
 
-Here’s a common problem.  Your team is starting a new project.  Front end developers are starting to work on the user experience, and the back-end developers are starting to work on the database and the back-end.  The problem is, the front-end designers have to wait until the back-end developers create some endpoints for them to consume, and they have to wait until the back-end developers have the format of the JSON they’re going to be returning pretty much nailed down.
+### Tools Required:
+* Node JS 8.1 or higher
+* Npm 5.6 or higher
+* Postman
+* Editor or IDE of your choice (I'm using Visual Studio Code)
+
+----
+
+### Here’s a common problem.  
+
+Your team is starting a new project.  Front end developers are starting to work on the user experience, and the back-end developers are starting to work on the database and the back-end.  The problem is, the front-end designers have to wait until the back-end developers create some endpoints for them to consume, and they have to wait until the back-end developers have the format of the JSON they’re going to be returning pretty much nailed down.
 
 In effect, we’re saying the front-end team can’t do anything until the back-end team is well underway.  You could just stagger the development effort, but wouldn’t it be better if you could mock the API the back-end team is developing?
 
@@ -135,4 +145,14 @@ And there you have it.  A fully functional mock back-end.  If you want to add mo
 If you’d like the files I created, you can find them on GitHub.  The link is in the video description.
 
 If you enjoyed this video, hit like and subscribe for even more coding and operational how-to videos.  And be sure to visit us online at http://www.maddevskilz.com or on twitter at @maddevskilz
+
+----
+This script is copyright 2020 by Bruce M. Van Horn II.
+
+You can use the sample code, but not the audio script you're reading right now in this repo any way you see fit.
+
+For more video tutorials, check out http://www.maddevskilz.com
+
+LinkedIn:  www.linkedin.com/in/brucevanhorn2
+Twitter: @maddevskilz
 
