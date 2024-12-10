@@ -156,3 +156,33 @@ For more video tutorials, check out http://www.maddevskilz.com
 LinkedIn:  www.linkedin.com/in/brucevanhorn2
 Twitter: @maddevskilz
 
+
+
+## Rework
+
+Generate json file and use json-server. using nvm to switch between node. 
+
+node generate.js & json-server using node 20.11.1
+
+react-script using node 12.22.12.
+
+Follow: https://www.youtube.com/watch?v=puwTktWSUkU
+
+step 1 : generate scenario.json 
+
+```
+node generate.js
+```
+
+step 2 : run json-server on port 3001
+
+```
+json-server -p 3001 scenario.json
+```
+
+step 3: run react-script
+
+```
+npm run start
+```
+
